@@ -30,6 +30,32 @@
       }
     },
     {
+      "id": "2017stvmollo2",
+      "title": "Storytelling VT: Annie Mollo",
+      "shortDescription": "Storytelling VT meets every month at Light Club Lamp Shop. The theme of this story is money.",
+      "thumbnail": "http://www.retn.org/sites/default/files/RETN-STV-2017-ToBeHuman_AnneMollo.jpeg",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "money",
+        "storytelling",
+        "live"
+      ],
+      "releaseDate": "2017-05-30",
+      "content": {
+        "dateAdded": "2017-06-11T14:14:54.431Z",
+        "duration": 9,
+        "videos": [
+          {
+            "url": "https://archive.org/download/Annie_Mollo_-_Money/Annie_Mollo_-_Money.HD.mov",
+            "quality": "HD",
+            "videoType": "MOV"
+          }
+        ]
+      }
+    },
+    {
       "id": "2017stvburns",
       "title": "Storytelling VT: Peter Burns",
       "shortDescription": "Storytelling VT meets every month at Light Club Lamp Shop. The theme of this story is money.",
