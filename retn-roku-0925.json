@@ -1,0 +1,245 @@
+{
+  "providerName": "Media Factory",
+  "lastUpdated": "2017-09-06T18:12:32.125Z",
+  "language": "en-US",
+  "playlists": [
+    {
+      "name": "Series",
+      "itemIds": [
+        "retnstv",
+        "retnvce",
+        "2017vyoromeo",
+        "2017sapjehkulu"
+      ]
+    },
+    {
+      "name": "music",
+      "itemIds": [
+        "2017sapjehkulu",
+        "2017vyoromeo",
+        "retnvce",
+        "retnstv"
+      ]
+    }
+  ],
+  "shortFormVideos": [
+    {
+      "id": "2017sapjehkulu",
+      "title": "Jeh Kulu Dance & Drum Theater",
+      "shortDescription": "Jeh Kulu Dance and Drum Theater perform a segment of Brahms Requiem at the 2017 Green Mountain Mahler Festival.",
+      "thumbnail": "https://i.vimeocdn.com/video/643758445.jpg",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "performance",
+        "live",
+        "concert"
+      ],
+      "releaseDate": "2017-06-21",
+      "content": {
+        "dateAdded": "2017-07-21T14:14:54.431Z",
+        "duration": 15,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/224663511.hd.mp4?s=e57bcc051b7ee6b066d402945e94f0d8522fdc79&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2017aoeharwood",
+      "title": "Personalized Learning Plans: Harwood Union High School",
+      "shortDescription": "Secretary of Education Rebecca Holcombe visits with students and faculty at Harwood Union High School to learn more about the school's implementation of personalized learning plans.",
+      "thumbnail": "https://i.vimeocdn.com/video/652425510.jpg",
+      "genres": [
+        "educational"
+      ],
+      "tags": [
+        "learning",
+        "teaching",
+        "schools"
+      ],
+      "releaseDate": "2017-08-13",
+      "content": {
+        "dateAdded": "2017-08-13T14:14:54.431Z",
+        "duration": 10,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/231583631.hd.mp4?s=a44da5cc872aad695ed7e1a39861af97e779b0f2&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2017vyoromeo",
+      "title": "VYO: Romeo & Juliet Fantasy",
+      "shortDescription": "The Vermont Youth Orchestra performs the overture of Tchaikovsky's Romeo and Juliet Fantasy.",
+      "thumbnail": "https://i.vimeocdn.com/video/636805978.jpg",
+      "genres": [
+        "special"
+      ],
+      "tags": [
+        "concert",
+        "live",
+        "performance"
+      ],
+      "releaseDate": "2017-05-28",
+      "content": {
+        "dateAdded": "2017-05-28T14:14:54.431Z",
+        "duration": 21,
+        "videos": [
+          {
+            "url": "https://player.vimeo.com/external/219123533.hd.mp4?s=04c718d7d41cba000128d702d4d5b689a126ad48&profile_id=174",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "series": [
+    {
+      "id": "retnstv",
+      "title": "Storytelling VT",
+      "episodes": [
+        {
+          "id": "2017stvmollo",
+          "title": "Annie Mollo",
+          "content": {
+            "dateAdded": "2017-06-11T14:14:54.431Z",
+            "duration": 540,
+            "videos": [
+              {
+                "url": "https://archive.org/download/Annie_Mollo_-_Money/Annie_Mollo_-_Money.HD.mov",
+                "quality": "HD",
+                "videoType": "MOV"
+              }
+            ]
+          },
+          "thumbnail": "https://ia600602.us.archive.org/28/items/Annie_Mollo_-_Money/RETN_Thumb_stvmollow.jpg",
+          "episodeNumber": 1,
+          "shortDescription": "Annie Mollo tells a story about money at the Light Club Lamp Shop.",
+          "releaseDate": "2017-05-28"
+        },
+        {
+          "id": "2017burns",
+          "title": "Peter Burns",
+          "content": {
+            "dateAdded": "2017-06-11T14:14:54.431Z",
+            "duration": 395,
+            "videos": [
+              {
+                "url": "https://archive.org/download/Peter_Burns_-_Money/Peter_Burns_-_Money.HD.mov",
+                "quality": "HD",
+                "videoType": "MOV"
+              }
+            ]
+          },
+          "thumbnail": "https://ia800603.us.archive.org/16/items/Peter_Burns_-_Money/RETN-STV-2017-ToBeHuman_PeterBurns.jpeg",
+          "episodeNumber": 2,
+          "shortDescription": "Peter Burns tells a story about money at the Light Club Lamp Shop.",
+          "releaseDate": "2017-05-28"
+        },
+        {
+          "id": "2017mcsorley",
+          "title": "Dennis McSorley",
+          "content": {
+            "dateAdded": "2017-06-11T14:14:54.431Z",
+            "duration": 481,
+            "videos": [
+              {
+                "url": "https://archive.org/download/Dennis_McSorley_-_Money/Dennis_McSorley_-_Money.HD.mov",
+                "quality": "HD",
+                "videoType": "MOV"
+              }
+            ]
+          },
+          "thumbnail": "https://ia600606.us.archive.org/8/items/Dennis_McSorley_-_Money/RETN-STV-2017-Money_DennisMcSorley.jpeg",
+          "episodeNumber": 3,
+          "shortDescription": "Dennis McSorley tells a story about money at the Light Club Lamp Shop.",
+          "releaseDate": "2017-05-28"
+        }
+      ],
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://ia600602.us.archive.org/28/items/Annie_Mollo_-_Money/RETN_Thumb_stvmollow.jpg",
+      "shortDescription": "Selections from Storytelling VT's live storytelling events in and around Burlington.",
+      "releaseDate": "2017-05-28"
+    },
+    {
+      "id": "retnvce",
+      "title": "Female Founders",
+      "episodes": [
+        {
+          "id": "2017vcewolfe",
+          "title": "Dorothy Wolfe, Wolfe Energy",
+          "content": {
+            "dateAdded": "2017-06-11T14:14:54.431Z",
+            "duration": 624,
+            "videos": [
+              {
+                "url": "https://archive.org/download/Dorothy_Wolfe_Wolfe_Energy_-_Female_Founders_Speaker_Series/Dorothy_Wolfe_Wolfe_Energy_-_Female_Founders_Speaker_Series.HD.mov",
+                "quality": "HD",
+                "videoType": "MOV"
+              }
+            ]
+          },
+          "thumbnail": "https://ia600605.us.archive.org/12/items/Dorothy_Wolfe_Wolfe_Energy_-_Female_Founders_Speaker_Series/RETN-VCE-2017-FFS_DorothyWolfe.jpeg",
+          "episodeNumber": 1,
+          "shortDescription": "Dorothy Wolfe, founder of Wolfe Energy, shares her experiences starting a business and what it took to make Wolfe Energy successful.",
+          "releaseDate": "2017-05-28"
+        },
+        {
+          "id": "2017sachs",
+          "title": "Beth Sachs, Vermont Energy Investment Corporation",
+          "content": {
+            "dateAdded": "2017-06-12T14:14:54.431Z",
+            "duration": 1038,
+            "videos": [
+              {
+                "url": "https://archive.org/download/Beth_Sachs_Vermont_Energy_Investment_Corporation_VEIC_-_Female_Founders_Speaker_Series/Beth_Sachs_Vermont_Energy_Investment_Corporation_VEIC_-_Female_Founders_Speaker_Series.HD.mov",
+                "quality": "HD",
+                "videoType": "MOV"
+              }
+            ]
+          },
+          "thumbnail": "https://ia600607.us.archive.org/20/items/Beth_Sachs_Vermont_Energy_Investment_Corporation_VEIC_-_Female_Founders_Speaker_Series/RETN-VCE-2017-FFS_BethSachs.jpeg",
+          "episodeNumber": 2,
+          "shortDescription": "Beth Sachs co-founded VEIC in 1986 and served as its Executive Director for 22 years. She shares stories from her journey as an entrepreneur and reflects on the growth of VEIC.  ",
+          "releaseDate": "2017-05-28"
+        },
+        {
+          "id": "2017kimmich",
+          "title": "Jen Kimmich",
+          "content": {
+            "dateAdded": "2017-06-11T14:14:54.431Z",
+            "duration": 575,
+            "videos": [
+              {
+                "url": "https://archive.org/download/Jen_Kimmich_The_Alchemist_-_Female_Founders_Speaker_Series/Jen_Kimmich_The_Alchemist_-_Female_Founders_Speaker_Series.HD.mov",
+                "quality": "HD",
+                "videoType": "MOV"
+              }
+            ]
+          },
+          "thumbnail": "https://ia601606.us.archive.org/22/items/Jen_Kimmich_The_Alchemist_-_Female_Founders_Speaker_Series/RETN-VCE-2017-FFS_JenKimmich.jpeg",
+          "episodeNumber": 3,
+          "shortDescription": "Jen Kimmich shares stories of how The Alchemist grew from a brewpub in Waterbury to the brewery responsible for the one of the region's most successful craft beers, Heady Topper.",
+          "releaseDate": "2017-05-28"
+        }
+      ],
+      "genres": [
+        "special"
+      ],
+      "thumbnail": "https://ia600605.us.archive.org/12/items/Dorothy_Wolfe_Wolfe_Energy_-_Female_Founders_Speaker_Series/RETN-VCE-2017-FFS_DorothyWolfe.jpeg",
+      "shortDescription": "Female entrepreneurs from around the state share what it takes to start a company from the ground up. Brought to you by RETN, the VT Center for Emerging Technologies and Hotel Vermont.",
+      "releaseDate": "2017-05-28"
+    }
+  ]
+}
